@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 9}, "model": "weapon/blank"},
+		{ "predicate": {"custom_model_data": 10}, "model": "weapon/seedsnare"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/snowball"}
+	]
+}

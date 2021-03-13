@@ -1,0 +1,37 @@
+{
+	"pistol": {
+		"sounds": [
+			"custom/pistol"
+		]
+	},
+	
+	"cannon": {
+		"sounds": [
+			"custom/cannon"
+		]
+	},
+	
+	"cannonboom": {
+		"sounds": [
+			"custom/cannonboom"
+		]
+	},
+	
+	"grenade": {
+		"sounds": [
+			"custom/grenade"
+		]
+	},
+	
+	"charge": {
+		"sounds": [
+			"custom/charge"
+		]
+	},
+	
+	"boost": {
+		"sounds": [
+			"custom/boost"
+		]
+	}
+}
